@@ -1,0 +1,10 @@
+C:\Users\МеДведь\Source\Repos\Game2\bin\Debug\Game2.exe.config
+C:\Users\МеДведь\Source\Repos\Game2\bin\Debug\Game2.exe
+C:\Users\МеДведь\Source\Repos\Game2\bin\Debug\Game2.pdb
+C:\Users\МеДведь\Source\Repos\Game2\obj\Debug\Game2.csprojAssemblyReference.cache
+C:\Users\МеДведь\Source\Repos\Game2\obj\Debug\Game2.Form1.resources
+C:\Users\МеДведь\Source\Repos\Game2\obj\Debug\Game2.Properties.Resources.resources
+C:\Users\МеДведь\Source\Repos\Game2\obj\Debug\Game2.csproj.GenerateResource.cache
+C:\Users\МеДведь\Source\Repos\Game2\obj\Debug\Game2.csproj.CoreCompileInputs.cache
+C:\Users\МеДведь\Source\Repos\Game2\obj\Debug\Game2.exe
+C:\Users\МеДведь\Source\Repos\Game2\obj\Debug\Game2.pdb
